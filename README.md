@@ -2,7 +2,7 @@
 
 **`Desenvolvedor da Fabrica de Software`**
 
-Me chamo Marlon Oliveira Pereira, tenho 19 anos e sou natural do Mato Grosso Do Sul. Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Senac Hub Academy.
+Me chamo Marlon Oliveira Pereira, tenho 19 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas no Senac Hub Academy.
 
 ---
 
