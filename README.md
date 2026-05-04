@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Me chamo Marlon Oliveira Pereira, tenho 19 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas no Senac Hub Academy.
+Me chamo Marlon Oliveira Pereira, atualmente estou cursando Análise e Desenvolvimento de Sistemas no Senac Hub Academy.
 
 ---
 
