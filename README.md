@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Marlon Oliveira
 
-**`Desenvolvedor da Fabrica de Software`**
+**`Desenvolvedor Full Stack`**
 
 Me chamo Marlon Oliveira Pereira, tenho 19 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas no Senac Hub Academy.
 
