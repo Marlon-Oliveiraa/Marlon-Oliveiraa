@@ -12,6 +12,7 @@ Me chamo Marlon Oliveira Pereira, atualmente estou cursando Análise e Desenvolv
 ![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
@@ -26,3 +27,4 @@ Me chamo Marlon Oliveira Pereira, atualmente estou cursando Análise e Desenvolv
 ![](https://github-readme-stats.shion.dev/api?username=Marlon-Oliveiraa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Marlon-Oliveiraa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Marlon-Oliveiraa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
